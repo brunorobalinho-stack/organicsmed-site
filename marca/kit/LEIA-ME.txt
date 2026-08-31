@@ -1,0 +1,36 @@
+Organics Med — identidade 2026
+================================
+
+Figura: duas folhas + cabeça-semente (arquivo da casa).
+Modelo: casa farmacêutica — papel claro, floresta no texto, sálvia no acento.
+
+Cores
+-----
+Floresta  #0E3D25   texto, figura no papel, faixas escuras
+Sálvia    #A7B59B   figura no escuro
+Oliva     #84986D   botão, Med
+Musgo     #2F6F44   hover, rótulo
+Folha     #428323   CTA forte
+Papel     #FFFFFF   fundo
+Creme     #F4F6F1   faixa interna
+Mudo      #707070   texto secundário
+Linha     #E7E7E7   borda
+
+Tipografia
+----------
+Títulos e marca: Poppins 600
+Corpo: Roboto 400
+
+Arquivos
+--------
+organics-med-mark.svg           figura floresta
+organics-med-mark-salvia.svg    figura sálvia (fundo escuro)
+organics-med-logo.svg           lockup horizontal no papel
+organics-med-logo-escuro.svg    lockup horizontal no escuro
+organics-med-logo-empilhado.svg lockup empilhado
+organics-med-favicon.svg        ícone 32
+
+Não fazer
+---------
+Kamon de uma folíola. Palma de sete dedos. Lime de vitrine. Dourado. Neon.
+Não misturar com o canal associativo.
